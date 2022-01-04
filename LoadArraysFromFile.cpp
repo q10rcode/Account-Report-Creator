@@ -2,9 +2,9 @@
 #include "myheader.h"
 
 void LoadArraysFromFile(string accName[],
-						int accId[],
-						float accBalance[],
-						int& accounts)
+			int accId[],
+			float accBalance[],
+			int& accounts)
 {
 
 	string inFileName;	//INPUT - Name of the input file
